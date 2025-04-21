@@ -1,0 +1,20 @@
+{
+  "name": "@sunilkkhadka/tiny-hooks",
+  "version": "1.0.0",
+  "description": "A lightweight collection of reusable React hooks for everyday development. Built for consistency, maintainability, and productivity across projects.",
+  "main": "src/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunilkkhadka",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "18",
+    "react-dom": "18"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
