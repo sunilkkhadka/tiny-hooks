@@ -1,5 +1,5 @@
 {
-  "name": "@sunilkkhadka/tiny-hooks",
+  "name": "@sunil_khadka/tiny-hooks",
   "version": "1.0.0",
   "description": "A lightweight collection of reusable React hooks for everyday development. Built for consistency, maintainability, and productivity across projects.",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sunilkkhadka",
+  "author": "sunil_khadka",
   "license": "ISC",
   "devDependencies": {
     "react": "18",
