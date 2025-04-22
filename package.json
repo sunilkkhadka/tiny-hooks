@@ -1,6 +1,6 @@
 {
   "name": "@sunil_khadka/tiny-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight collection of reusable React hooks for everyday development. Built for consistency, maintainability, and productivity across projects.",
   "main": "src/index.js",
   "types": "dist/index.d.ts",
